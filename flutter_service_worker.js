@@ -4,11 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f41613f78ce45f3bb1a6e936c52b5d16",
-"index.html": "133c24246ccfcf4cd705d082167a2f17",
-"/": "133c24246ccfcf4cd705d082167a2f17",
+"index.html": "a40c29f74b1f26d9bbe9b99d4736bdf1",
+"/": "a40c29f74b1f26d9bbe9b99d4736bdf1",
 "js/pdf.worker.min.js": "659a99a1fb466b614a287b17bbe64399",
 "js/pdf.js": "a181fcf92b2d411be8a55dc02248884c",
 "main.dart.js": "70c27aff13d258ea7c62f1c9ce75d6b7",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -816,7 +817,10 @@ const RESOURCES = {
 "assets/assets/fonts/Gotham-Italic.ttf": "b1951be38b528a44704a217b9c44ab55",
 "assets/assets/fonts/Bicyclette-Light.ttf": "e4a7270e894013517cecb1f32217844a",
 "assets/assets/fonts/Bicyclette-Ultra.ttf": "49fde244e01ec0671ab1332f3f786505",
-"index%209.52.17%20p.m..html": "2cd98ceda5d2efa70b64fb78337be8a6"
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
